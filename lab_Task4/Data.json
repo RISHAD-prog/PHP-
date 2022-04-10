@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Ismail Hossain",
+        "e-mail": "ihrishad10@gmail.com",
+        "username": "Ismail_hossain",
+        "gender": "male",
+        "password": "12345678@",
+        "dob": "2022-03-17",
+        "currentpass": "12345678@",
+        "newpassword": "abc@12345",
+        "retypenewpassword": "abc@12345",
+        "submit": "Submit"
+    }
+]
